@@ -7,7 +7,10 @@ The video is really great and i'd higly recommend going through the enitre video
 Steps to get the code on your system.
 
 1)Use git clone to clone this repository
-2)Use python3.5+ and install all the libraries from the requirements.txt file or using anaconda setup a python virtual environment(Highly recommended)
+
+2)Use python3.5+ and install all the libraries from the requirements.txt file or using anaconda setup a python virtual 
+environment(Highly recommended)
+
 3)Solve!!!
 
 If you face any issues or have any queries,do raise an issue for the same.
